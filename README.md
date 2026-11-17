@@ -1,2 +1,1 @@
-# OpenTenacity
-laughably bad  dprotect obfuscation
+# Private for now.
